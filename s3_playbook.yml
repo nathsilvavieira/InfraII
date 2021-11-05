@@ -2,7 +2,7 @@
   tasks:
   - name: chutar o balde pelo ansible
     s3_bucket:
-      name: baldenovo
+      name: baldenovo-nath
       aws_access_key: AKIAUQ7BZT3KTKRDHF7T
       aws_secret_key: 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 
      
@@ -10,8 +10,8 @@
       region: us-east-1
       versioning: no
       tags:
-         name: baldechutado
-         type: testedaauala
+         name: baldechutado-nath
+         type: testedaaualainfra
 
 
 
