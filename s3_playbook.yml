@@ -3,8 +3,8 @@
   - name: chutar o balde pelo ansible
     s3_bucket:
       name: baldenovo-nath
-      aws_access_key: AKIAUQ7BZT3KTKRDHF7T
-      aws_secret_key: 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 
+      aws_access_key: AKIAUQ7BZT3KYTDIRZ6K
+      aws_secret_key: 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 
      
       state: present
       region: us-east-1
